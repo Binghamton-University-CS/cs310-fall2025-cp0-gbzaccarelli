@@ -1,5 +1,5 @@
-Full Name:
-GitHub ID:
+Full Name: Gianni Zaccarelli
+GitHub ID:gbzaccare
 Binghamton CS userid:
 Discord name:
 
